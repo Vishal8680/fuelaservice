@@ -1,0 +1,3 @@
+com\jobbersoft\fueltaservice\repository\TaxJurisdictionRepositoryTest.class
+com\jobbersoft\fueltaservice\service\TaxCalculationServiceTest.class
+com\jobbersoft\fueltaservice\repository\FuelTaxCalculationRepositoryTest.class
